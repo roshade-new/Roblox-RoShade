@@ -1,5 +1,5 @@
 # Roblox-RoShade
-improve Roblox's visuals by applying shaders to the game using a post-processing injector called 'Reshade'.  
+improve Roblox's visuals by applying shaders to the game using a post-processing injector called 'Reshade'. Roshade is an installation package that makes it easy to correctly install Reshade presets and shaders to the Roblox directory. With Roshade, you can quickly and easily customize your Roblox experience with advanced visual effects.
 
 
 # Does RoShade have a virus?
@@ -7,8 +7,9 @@ Windows may show a pop up, but this is standard for 'unknown' applications. You 
 
 
 # Getting Started
-To get started with RoShade, you'll first need to download the latest release from the releases page. Once you've downloaded the installer, simply run it and follow the prompts to install RoShade. Once installation is complete, you'll be able to launch Roblox and start customizing your visual experience with the included Reshade presets and shaders.
+To get started with Roshade, you'll first need to download the latest release from the releases page. Once you've downloaded the installer, simply run it and follow the prompts to install Roshade. Once installation is complete, you'll be able to launch Roblox and start customizing your visual experience with the included Reshade presets and shaders.
 
+If you have any questions or issues with Roshade, please feel free to open an issue on the GitHub repository.
 
 # Is RoShade free?
 Yes, you can get RoShade for free by going into the releases tab and downloading the most recent release of RoShade. RoShade will always stay free.
