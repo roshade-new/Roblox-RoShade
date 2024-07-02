@@ -2,6 +2,21 @@
 improve Roblox's visuals by applying shaders to the game using a post-processing injector called 'Reshade'. Roshade is an installation package that makes it easy to correctly install Reshade presets and shaders to the Roblox directory. With Roshade, you can quickly and easily customize your Roblox experience with advanced visual effects.
 
 
+# Minimum PC Requirements (IMPORTANT)
+Recommended:
+
+- Windows 10 or above.
+- GTX 1650 (4GB GDDR6)
+- AMD Ryzen 5 5600 3.5 GHz 6-core
+- 4GB DDR3 RAM
+Minimum:
+
+- Windows 7 or above.
+- GT 1030 (2GB GDDR5)
+- AMD A8-9600 3.4GHz quad-core
+- 4GB DDR3 RAM
+
+  
 # Does RoShade have a virus?
 Windows may show a pop up, but this is standard for 'unknown' applications. You can skip these messages by pressing 'more info' and 'run anyway'. RoShade is a false positive due to the fact of it modifying Roblox files to install the shaders.
 
