@@ -9,6 +9,7 @@ Recommended:
 - GTX 1650 (4GB GDDR6)
 - AMD Ryzen 5 5600 3.5 GHz 6-core
 - 4GB DDR3 RAM
+  
 Minimum:
 
 - Windows 7 or above.
